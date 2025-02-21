@@ -1,0 +1,58 @@
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
+using MultiShop.Catalog.Dtos.BrandDtos;
+using MultiShop.Catalog.Services.BrandServices;
+
+namespace MultiShop.Catalog.Controllers
+{
+    [AllowAnonymous]
+    [Route("api/[controller]")]
+    [ApiController]
+    public class BrandsController : ControllerBase
+    {
+        private readonly IBrandService _brandService;
+        public BrandsController(IBrandService BrandService)
+        {
+            _brandService = BrandService;
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> BrandList()
+        {
+            var values = await _brandService.GetAllBrandsAsync();
+            return Ok(values);
+        }
+
+        [HttpGet("{id}")]
+        public async Task<IActionResult> GetBrandById(string id)
+        {
+            var value = await _brandService.GetByIdBrandAsync(id);
+            return Ok(value);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> CreateBrand(CreateBrandDto createBrandDto)
+        {
+            await _brandService.CreateBrandAsync(createBrandDto);
+            return Ok("Marka başarıyla oluşturuldu.");
+        }
+
+
+        [HttpPut]
+        public async Task<IActionResult> UpdateBrand(UpdateBrandDto updateBrandDto)
+        {
+            var value = _brandService.UpdateBrandAsync(updateBrandDto);
+            return Ok("Marka başarıyla güncellendi");
+        }
+
+
+        [HttpDelete]
+        public async Task<IActionResult> DeleteBrand(string id)
+        {
+            var value = _brandService.DeleteBrandAsync(id);
+            return Ok("Marka başarıyla silindi");
+        }
+
+    }
+}
