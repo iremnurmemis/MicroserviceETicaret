@@ -10,7 +10,9 @@
         public string FeatureSliderCollectionName { get; set; }
         public string FeatureCollectionName { get; set; }
         public string SpecialOfferCollectionName { get; set; }
-        public string BrandCollectionName {  get; set; }
+        public string BrandCollectionName {  get; set; }  
+        public string AboutCollectionName {  get; set; }
+        public string ContactCollectionName {  get; set; }
         public string DatabaseName {  get; set; }
         public string ConnectionString { get; set; }
 

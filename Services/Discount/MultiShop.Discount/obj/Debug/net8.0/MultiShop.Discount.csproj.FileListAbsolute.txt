@@ -273,3 +273,4 @@ D:\projeler\MultiShop\Services\Discount\MultiShop.Discount\obj\Debug\net8.0\Mult
 D:\projeler\MultiShop\Services\Discount\MultiShop.Discount\obj\Debug\net8.0\MultiShop.Discount.genruntimeconfig.cache
 D:\projeler\MultiShop\Services\Discount\MultiShop.Discount\obj\Debug\net8.0\ref\MultiShop.Discount.dll
 D:\projeler\MultiShop\Services\Discount\MultiShop.Discount\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\projeler\MultiShop\Services\Discount\MultiShop.Discount\obj\Debug\net8.0\MultiShop.Discount.sourcelink.json

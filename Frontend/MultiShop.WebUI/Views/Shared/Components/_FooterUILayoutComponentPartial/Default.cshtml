@@ -1,18 +1,18 @@
-﻿<div class="container-fluid bg-dark text-secondary mt-5 pt-5">
+﻿@model List<ResultAboutDto>
+
+<div class="container-fluid bg-dark text-secondary mt-5 pt-5">
     <div class="row px-xl-5 pt-5">
-        <div class="col-lg-4 col-md-12 mb-5 pr-3 pr-xl-5">
-            <h5 class="text-secondary text-uppercase mb-4">Hakkımızda</h5>
-            <p class="mb-4">
-                Güzelliğin gücüne inanıyor ve her kadının kendini en iyi şekilde hissetmesi için kaliteli, güvenilir ve trend makyaj ürünlerini sizlere sunuyoruz. E-ticaret platformumuz, dünya çapında sevilen markaların en özel ürünlerini tek bir çatı altında toplayarak sizlere kusursuz bir alışveriş deneyimi sunmayı hedefliyor.
-
-                Müşteri memnuniyetini en ön planda tutarak, güvenli ödeme seçenekleri, hızlı teslimat ve %100 orijinal ürün garantisiyle hizmet veriyoruz. Makyaj dünyasındaki en son yenilikleri takip ederek, en sevilen rujlardan fondötenlere, göz alıcı far paletlerinden cilt dostu bakım ürünlerine kadar geniş bir ürün yelpazesi sunuyoruz.
-
-                Güzellik yolculuğunuzda size ilham vermek ve en iyi ürünleri ulaştırmak için buradayız. Hayalinizdeki makyaj ürünlerine kolayca ulaşmak için hemen keşfe çıkın! 😊✨
-            </p>
-            <p class="mb-2"><i class="fa fa-map-marker-alt text-primary mr-3"></i>123 Street, New York, USA</p>
-            <p class="mb-2"><i class="fa fa-envelope text-primary mr-3"></i>info@example.com</p>
-            <p class="mb-0"><i class="fa fa-phone-alt text-primary mr-3"></i>+012 345 67890</p>
-        </div>
+        @foreach(var item in Model)
+        {
+            <div class="col-lg-4 col-md-12 mb-5 pr-3 pr-xl-5">
+                <h5 class="text-secondary text-uppercase mb-4">Hakkımızda</h5>
+                <p class="mb-4">@item.Description</p>
+                <p class="mb-2"><i class="fa fa-map-marker-alt text-primary mr-3"></i>@item.Address</p>
+                <p class="mb-2"><i class="fa fa-envelope text-primary mr-3"></i>@item.Email</p>
+                <p class="mb-0"><i class="fa fa-phone-alt text-primary mr-3"></i>@item.Phone</p>
+            </div>
+            
+        }
         <div class="col-lg-8 col-md-12">
             <div class="row">
                 <div class="col-md-4 mb-5">

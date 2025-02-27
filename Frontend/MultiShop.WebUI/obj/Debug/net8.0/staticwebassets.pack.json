@@ -1129,6 +1129,102 @@
       "PackagePath": "staticwebassets\\MainDownload-OvioAdmin-html5-template\\html\\widgets.html"
     },
     {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\css\\opensans-font.css",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\css\\opensans-font.css"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\css\\style.css",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\css\\style.css"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\Open_Sans\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\Open_Sans\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-Bold.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-Bold.ttf"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-BoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-ExtraBold.ttf"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-Italic.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-Italic.ttf"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-Light.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-Light.ttf"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-LightItalic.ttf"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-Regular.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-Regular.ttf"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-SemiBold.ttf"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\Open_Sans\\OpenSans-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\line-awesome\\css\\line-awesome-font-awesome.css",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\line-awesome\\css\\line-awesome-font-awesome.css"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\line-awesome\\css\\line-awesome-font-awesome.min.css",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\line-awesome\\css\\line-awesome-font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\line-awesome\\css\\line-awesome.css",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\line-awesome\\css\\line-awesome.css"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\line-awesome\\css\\line-awesome.min.css",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\line-awesome\\css\\line-awesome.min.css"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\line-awesome\\fonts\\line-awesome.eot",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\line-awesome\\fonts\\line-awesome.eot"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\line-awesome\\fonts\\line-awesome.svg",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\line-awesome\\fonts\\line-awesome.svg"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\line-awesome\\fonts\\line-awesome.ttf",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\line-awesome\\fonts\\line-awesome.ttf"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\line-awesome\\fonts\\line-awesome.woff",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\line-awesome\\fonts\\line-awesome.woff"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\fonts\\line-awesome\\fonts\\line-awesome.woff2",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\fonts\\line-awesome\\fonts\\line-awesome.woff2"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\index.html",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\index.html"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\colorlib-regform-30\\readme.txt",
+      "PackagePath": "staticwebassets\\colorlib-regform-30\\readme.txt"
+    },
+    {
       "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

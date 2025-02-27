@@ -143,3 +143,4 @@ D:\projeler\MultiShop\Services\Cargo\MultiShop.Cargo.WebApi\obj\Debug\net8.0\Mul
 D:\projeler\MultiShop\Services\Cargo\MultiShop.Cargo.WebApi\obj\Debug\net8.0\MultiShop.Cargo.WebApi.genruntimeconfig.cache
 D:\projeler\MultiShop\Services\Cargo\MultiShop.Cargo.WebApi\obj\Debug\net8.0\ref\MultiShop.Cargo.WebApi.dll
 D:\projeler\MultiShop\Services\Cargo\MultiShop.Cargo.WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\projeler\MultiShop\Services\Cargo\MultiShop.Cargo.WebApi\obj\Debug\net8.0\MultiShop.Cargo.WebApi.sourcelink.json

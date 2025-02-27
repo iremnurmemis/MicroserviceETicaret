@@ -15,3 +15,4 @@ D:\projeler\MultiShop\Services\Cargo\MultiShop.Cargo.BusinessLayer\bin\Debug\net
 D:\projeler\MultiShop\Services\Cargo\MultiShop.Cargo.BusinessLayer\bin\Debug\net8.0\MultiShop.Cargo.EntityLayer.pdb
 D:\projeler\MultiShop\Services\Cargo\MultiShop.Cargo.BusinessLayer\obj\Debug\net8.0\MultiShop.Cargo.BusinessLayer.csproj.AssemblyReference.cache
 D:\projeler\MultiShop\Services\Cargo\MultiShop.Cargo.BusinessLayer\obj\Debug\net8.0\MultiSho.9C1E364B.Up2Date
+D:\projeler\MultiShop\Services\Cargo\MultiShop.Cargo.BusinessLayer\obj\Debug\net8.0\MultiShop.Cargo.BusinessLayer.sourcelink.json

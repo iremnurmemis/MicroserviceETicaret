@@ -9,3 +9,4 @@ D:\projeler\MultiShop\Frontend\MultiShop.DtoLayer\obj\Debug\net8.0\MultiShop.Dto
 D:\projeler\MultiShop\Frontend\MultiShop.DtoLayer\obj\Debug\net8.0\refint\MultiShop.DtoLayer.dll
 D:\projeler\MultiShop\Frontend\MultiShop.DtoLayer\obj\Debug\net8.0\MultiShop.DtoLayer.pdb
 D:\projeler\MultiShop\Frontend\MultiShop.DtoLayer\obj\Debug\net8.0\ref\MultiShop.DtoLayer.dll
+D:\projeler\MultiShop\Frontend\MultiShop.DtoLayer\obj\Debug\net8.0\MultiShop.DtoLayer.sourcelink.json

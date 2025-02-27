@@ -170,3 +170,4 @@ D:\projeler\MultiShop\IdentityServer\MultiShop.IdentityServer\obj\Debug\net8.0\r
 D:\projeler\MultiShop\IdentityServer\MultiShop.IdentityServer\obj\Debug\net8.0\MultiShop.IdentityServer.pdb
 D:\projeler\MultiShop\IdentityServer\MultiShop.IdentityServer\obj\Debug\net8.0\MultiShop.IdentityServer.genruntimeconfig.cache
 D:\projeler\MultiShop\IdentityServer\MultiShop.IdentityServer\obj\Debug\net8.0\ref\MultiShop.IdentityServer.dll
+D:\projeler\MultiShop\IdentityServer\MultiShop.IdentityServer\obj\Debug\net8.0\MultiShop.IdentityServer.sourcelink.json

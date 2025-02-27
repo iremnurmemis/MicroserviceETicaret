@@ -26,6 +26,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\projeler\MultiShop\Frontend\MultiShop.WebUI
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/projeler/MultiShop/Frontend/MultiShop.WebUI/Areas/Admin/Views/About/CreateAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWJvdXRcQ3JlYXRlQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projeler/MultiShop/Frontend/MultiShop.WebUI/Areas/Admin/Views/About/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWJvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projeler/MultiShop/Frontend/MultiShop.WebUI/Areas/Admin/Views/About/UpdateAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWJvdXRcVXBkYXRlQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/projeler/MultiShop/Frontend/MultiShop.WebUI/Areas/Admin/Views/AdminLayout/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5MYXlvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -54,6 +66,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcVXBkYXRlQ2F0ZWdvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/projeler/MultiShop/Frontend/MultiShop.WebUI/Areas/Admin/Views/Comment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29tbWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projeler/MultiShop/Frontend/MultiShop.WebUI/Areas/Admin/Views/Comment/UpdateComment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29tbWVudFxVcGRhdGVDb21tZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/projeler/MultiShop/Frontend/MultiShop.WebUI/Areas/Admin/Views/FeatureSlider/CreateFeatureSlider.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRmVhdHVyZVNsaWRlclxDcmVhdGVGZWF0dXJlU2xpZGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -76,6 +96,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/projeler/MultiShop/Frontend/MultiShop.WebUI/Areas/Admin/Views/Feature/UpdateFeature.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRmVhdHVyZVxVcGRhdGVGZWF0dXJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projeler/MultiShop/Frontend/MultiShop.WebUI/Areas/Admin/Views/ProductDetail/UpdateProductDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdERldGFpbFxVcGRhdGVQcm9kdWN0RGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projeler/MultiShop/Frontend/MultiShop.WebUI/Areas/Admin/Views/ProductImage/ProductImageDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdEltYWdlXFByb2R1Y3RJbWFnZURldGFpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/projeler/MultiShop/Frontend/MultiShop.WebUI/Areas/Admin/Views/Product/CreateProduct.cshtml]
@@ -134,12 +162,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/projeler/MultiShop/Frontend/MultiShop.WebUI/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projeler/MultiShop/Frontend/MultiShop.WebUI/Views/ProductList/AddComment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdExpc3RcQWRkQ29tbWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/projeler/MultiShop/Frontend/MultiShop.WebUI/Views/ProductList/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdExpc3RcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/projeler/MultiShop/Frontend/MultiShop.WebUI/Views/ProductList/ProductDetail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdExpc3RcUHJvZHVjdERldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projeler/MultiShop/Frontend/MultiShop.WebUI/Views/Register/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/projeler/MultiShop/Frontend/MultiShop.WebUI/Views/Shared/Components/_CarouselDefaultComponentPartial/Default.cshtml]

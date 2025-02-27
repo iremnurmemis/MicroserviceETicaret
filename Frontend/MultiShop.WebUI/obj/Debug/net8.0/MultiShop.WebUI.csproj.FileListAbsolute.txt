@@ -227,3 +227,12 @@ D:\projeler\MultiShop\Frontend\MultiShop.WebUI\obj\Debug\net8.0\MultiShop.WebUI.
 D:\projeler\MultiShop\Frontend\MultiShop.WebUI\obj\Debug\net8.0\MultiSho.490B4246.Up2Date
 D:\projeler\MultiShop\Frontend\MultiShop.WebUI\bin\Debug\net8.0\MultiShop.DtoLayer.dll
 D:\projeler\MultiShop\Frontend\MultiShop.WebUI\bin\Debug\net8.0\MultiShop.DtoLayer.pdb
+D:\projeler\MultiShop\Frontend\MultiShop.WebUI\obj\Debug\net8.0\MultiShop.WebUI.sourcelink.json
+D:\projeler\MultiShop\Frontend\MultiShop.WebUI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\projeler\MultiShop\Frontend\MultiShop.WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\projeler\MultiShop\Frontend\MultiShop.WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\projeler\MultiShop\Frontend\MultiShop.WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\projeler\MultiShop\Frontend\MultiShop.WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\projeler\MultiShop\Frontend\MultiShop.WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\projeler\MultiShop\Frontend\MultiShop.WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\projeler\MultiShop\Frontend\MultiShop.WebUI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
