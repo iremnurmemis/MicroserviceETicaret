@@ -8,8 +8,8 @@ using MultiShop.Catalog.Services.ProductDetailServices;
 namespace MultiShop.Catalog.Controllers
 {
 
-    
-    [Route("api/[controller]")]
+	[Authorize]
+	[Route("api/[controller]")]
     [ApiController]
     public class ProductDetailsController : ControllerBase
     {
@@ -33,7 +33,7 @@ namespace MultiShop.Catalog.Controllers
             return Ok(value);
         }
 
-        [HttpGet("GetProductDetailByProductId")]
+        [HttpGet("GetProductDetailByProductId/{id}")]
         public async Task<IActionResult> GetProductDetailByProductId(string id)
         {
             var value = await  _productDetailService.GetByProductIdProductDetailAsync(id);

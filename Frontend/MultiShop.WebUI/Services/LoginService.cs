@@ -2,7 +2,7 @@
 
 namespace MultiShop.WebUI.Services
 {
-	public class LoginService:ILoginService
+    public class LoginService:ILoginService
 	{
 		private readonly IHttpContextAccessor _contextAccessor;
 

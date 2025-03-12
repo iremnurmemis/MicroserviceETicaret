@@ -4,6 +4,7 @@
     {
         public string ProductId { get; set; } //product id ler mongodan gelicek string
         public string ProductName { get; set; }
+        public string ProductImageUrl { get; set; }
         public int Quantity { get; set; }
         public decimal Price { get; set; }  
     }

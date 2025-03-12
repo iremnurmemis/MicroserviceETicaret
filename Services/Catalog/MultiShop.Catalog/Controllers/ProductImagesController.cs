@@ -8,8 +8,8 @@ using MultiShop.Catalog.Services.ProductImageServices;
 namespace MultiShop.Catalog.Controllers
 {
 
-    
-    [Route("api/[controller]")]
+	[Authorize]
+	[Route("api/[controller]")]
     [ApiController]
     public class ProductImagesController : ControllerBase
     {
@@ -26,7 +26,7 @@ namespace MultiShop.Catalog.Controllers
             return Ok(values);
         }
 
-        [HttpGet("ProductImagesByProductId")]
+        [HttpGet("ProductImagesByProductId/{id}")]
         public async Task<IActionResult> ProductImagesByProductId(string id)
         {
             var values = await _productImageService.GetByProductIdProductImageAsync(id);

@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using MultiShop.Basket.Dtos;
 using MultiShop.Basket.LoginServices;
@@ -7,6 +8,7 @@ using System.Security.Claims;
 
 namespace MultiShop.Basket.Controllers
 {
+    
     [Route("api/[controller]")]
     [ApiController]
     public class BasketsController : ControllerBase
@@ -22,22 +24,26 @@ namespace MultiShop.Basket.Controllers
         [HttpGet]
         public async Task<IActionResult> GetMyBasketDetail()
         {
-            var userId = _loginService.GetUserId;
+            //var userId = _loginService.GetUserId;
 
-            if (string.IsNullOrEmpty(userId))
-            {
-                return BadRequest("User ID is missing.");
-            }
+            //if (string.IsNullOrEmpty(userId))
+            //{
+            //    return BadRequest("User ID is missing.");
+            //}
 
 
-            var basket = await _basketService.GetBasket(userId);
+            //var basket = await _basketService.GetBasket(userId);
 
-            if (basket == null)
-            {
-                return NotFound("Basket not found.");
-            }
+            //if (basket == null)
+            //{
+            //    return NotFound("Basket not found.");
+            //}
 
-            return Ok(basket);
+            //return Ok(basket);
+
+            var user = User.Claims;
+            var values = await _basketService.GetBasket(_loginService.GetUserId);
+            return Ok(values);
         }
 
         [HttpPost]

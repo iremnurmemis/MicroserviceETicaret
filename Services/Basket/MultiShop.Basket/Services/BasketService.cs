@@ -20,19 +20,8 @@ namespace MultiShop.Basket.Services
 
         public async Task<BasketTotalDto?> GetBasket(string userId)
         {
-            if (string.IsNullOrEmpty(userId))
-            {
-                throw new ArgumentException("User ID cannot be null or empty", nameof(userId));
-            }
-
             var existBasket = await _redisService.GetDb().StringGetAsync(userId);
-
-            if (existBasket.IsNullOrEmpty)
-            {
-                return null; // Eğer Redis'te veri yoksa null dönebiliriz
-            }
-
-            return JsonSerializer.Deserialize<BasketTotalDto>(existBasket.ToString());
+            return JsonSerializer.Deserialize<BasketTotalDto>(existBasket);
         }
 
 
@@ -40,5 +29,21 @@ namespace MultiShop.Basket.Services
         {
             await _redisService.GetDb().StringSetAsync(basketTotalDto.UserId,JsonSerializer.Serialize(basketTotalDto));
         }
+
+        public async Task<bool> UpdateBasketItemQuantity(string productId, int quantity,string userId)
+        {
+            var basket = await GetBasket(userId);
+            var item = basket.BasketItems.FirstOrDefault(x => x.ProductId == productId);
+
+            if (item != null)
+            {
+                item.Quantity = quantity; // Yeni miktarı ayarla
+                await SaveBasket(basket); // Güncellenmiş sepeti kaydet
+                return true;
+            }
+
+            return false;
+        }
+
     }
 }

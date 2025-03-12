@@ -135,3 +135,4 @@ D:\projeler\MultiShop\Services\Comment\MultiShop.Comment\obj\Debug\net8.0\refint
 D:\projeler\MultiShop\Services\Comment\MultiShop.Comment\obj\Debug\net8.0\MultiShop.Comment.pdb
 D:\projeler\MultiShop\Services\Comment\MultiShop.Comment\obj\Debug\net8.0\MultiShop.Comment.genruntimeconfig.cache
 D:\projeler\MultiShop\Services\Comment\MultiShop.Comment\obj\Debug\net8.0\ref\MultiShop.Comment.dll
+D:\projeler\MultiShop\Services\Comment\MultiShop.Comment\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

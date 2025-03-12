@@ -29,7 +29,7 @@ namespace MultiShop.Order.Application.Features.CQRS.Handlers.AddressHandlers
 
             existingAddress.AddressId = command.AddressId;
             existingAddress.UserId = command.UserId;
-            existingAddress.Detail = command.Detail;
+            existingAddress.Detail1 = command.Detail;
             existingAddress.City = command.City;
             existingAddress.District = command.District;
              

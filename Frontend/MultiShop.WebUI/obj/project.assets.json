@@ -2,6 +2,23 @@
   "version": 3,
   "targets": {
     "net8.0": {
+      "Cnblogs.IdentityServer4.Storage/4.2.1": {
+        "type": "package",
+        "dependencies": {
+          "IdentityModel": "6.0.0",
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "compile": {
+          "lib/net7.0/IdentityServer4.Storage.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0/IdentityServer4.Storage.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Humanizer/2.14.1": {
         "type": "package",
         "dependencies": {
@@ -593,6 +610,19 @@
         "resource": {
           "lib/net6.0/zh-Hant/Humanizer.resources.dll": {
             "locale": "zh-Hant"
+          }
+        }
+      },
+      "IdentityModel/6.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/IdentityModel.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/IdentityModel.dll": {
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -2136,6 +2166,21 @@
     }
   },
   "libraries": {
+    "Cnblogs.IdentityServer4.Storage/4.2.1": {
+      "sha512": "6I8qOsLMLNbkE6X9arzgWSAKN/6Th61u+ipv2TkzoLlX42FcEMODmaMU4KtM/J+BOTCdxiPMEV6XgPN9OnIv2Q==",
+      "type": "package",
+      "path": "cnblogs.identityserver4.storage/4.2.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "cnblogs.identityserver4.storage.4.2.1.nupkg.sha512",
+        "cnblogs.identityserver4.storage.nuspec",
+        "icon.jpg",
+        "lib/net7.0/IdentityServer4.Storage.dll",
+        "lib/net7.0/IdentityServer4.Storage.pdb",
+        "lib/net7.0/IdentityServer4.Storage.xml"
+      ]
+    },
     "Humanizer/2.14.1": {
       "sha512": "/FUTD3cEceAAmJSCPN9+J+VhGwmL/C12jvwlyM1DFXShEMsBzvLzLqSrJ2rb+k/W2znKw7JyflZgZpyE+tI7lA==",
       "type": "package",
@@ -2880,6 +2925,33 @@
         "lib/netstandard1.0/zh-Hant/Humanizer.resources.dll",
         "lib/netstandard2.0/zh-Hant/Humanizer.resources.dll",
         "logo.png"
+      ]
+    },
+    "IdentityModel/6.0.0": {
+      "sha512": "eVHCR7a6m/dm5RFcBzE3qs/Jg5j9R5Rjpu8aTOv9e4AFvaQtBXb5ah7kmwU+YwA0ufRwz4wf1hnIvsD2hSnI4g==",
+      "type": "package",
+      "path": "identitymodel/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "icon.jpg",
+        "identitymodel.6.0.0.nupkg.sha512",
+        "identitymodel.nuspec",
+        "lib/net461/IdentityModel.dll",
+        "lib/net461/IdentityModel.pdb",
+        "lib/net461/IdentityModel.xml",
+        "lib/net472/IdentityModel.dll",
+        "lib/net472/IdentityModel.pdb",
+        "lib/net472/IdentityModel.xml",
+        "lib/net5.0/IdentityModel.dll",
+        "lib/net5.0/IdentityModel.pdb",
+        "lib/net5.0/IdentityModel.xml",
+        "lib/net6.0/IdentityModel.dll",
+        "lib/net6.0/IdentityModel.pdb",
+        "lib/net6.0/IdentityModel.xml",
+        "lib/netstandard2.0/IdentityModel.dll",
+        "lib/netstandard2.0/IdentityModel.pdb",
+        "lib/netstandard2.0/IdentityModel.xml"
       ]
     },
     "Microsoft.AspNetCore.Authentication.JwtBearer/8.0.1": {
@@ -5884,6 +5956,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Cnblogs.IdentityServer4.Storage >= 4.2.1",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 8.0.1",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 8.0.7",
       "MultiShop.DtoLayer >= 1.0.0"
@@ -5945,6 +6018,10 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "Cnblogs.IdentityServer4.Storage": {
+            "target": "Package",
+            "version": "[4.2.1, )"
+          },
           "Microsoft.AspNetCore.Authentication.JwtBearer": {
             "target": "Package",
             "version": "[8.0.1, )"

@@ -11,22 +11,25 @@ namespace MultiShop.Basket.LoginServices
             _httpContextAccessor = contextAccessor;
         }
 
-        public string GetUserId
-        {
-            get
-            {
-                var httpContext = _httpContextAccessor.HttpContext;
+        //public string GetUserId
+        //{
 
-                if (httpContext == null || httpContext.User == null)
-                {
-                    return null; // HttpContext boşsa, null döndür
-                }
+        //    //get
+        //    //{
+        //    //    var httpContext = _httpContextAccessor.HttpContext;
 
-                var userId = httpContext.User.FindFirst(ClaimTypes.NameIdentifier)?.Value
-                          ?? httpContext.User.FindFirst("sub")?.Value;
+        //    //    if (httpContext == null || httpContext.User == null)
+        //    //    {
+        //    //        return null; // HttpContext boşsa, null döndür
+        //    //    }
 
-                return userId;
-            }
-        }
+        //    //    var userId = httpContext.User.FindFirst(ClaimTypes.NameIdentifier)?.Value
+        //    //              ?? httpContext.User.FindFirst("sub")?.Value;
+
+        //    //    return userId;
+        //    //}
+        //}
+
+        public string GetUserId => _httpContextAccessor.HttpContext.User.FindFirst("sub").Value;
     }
 }

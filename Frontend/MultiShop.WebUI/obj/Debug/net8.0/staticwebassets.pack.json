@@ -1233,6 +1233,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\image\\chip.png",
+      "PackagePath": "staticwebassets\\image\\chip.png"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\image\\visa.png",
+      "PackagePath": "staticwebassets\\image\\visa.png"
+    },
+    {
       "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\images\\bronzer.jpeg",
       "PackagePath": "staticwebassets\\images\\bronzer.jpeg"
     },
@@ -2231,6 +2239,394 @@
     {
       "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\online-shop-website-template\\shop.html",
       "PackagePath": "staticwebassets\\online-shop-website-template\\shop.html"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica.zip",
+      "PackagePath": "staticwebassets\\spica.zip"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\.gitattributes",
+      "PackagePath": "staticwebassets\\spica\\.gitattributes"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\spica\\CHANGELOG.md"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\README.md",
+      "PackagePath": "staticwebassets\\spica\\README.md"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\spica\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\css\\style.css",
+      "PackagePath": "staticwebassets\\spica\\css\\style.css"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\spica\\css\\style.css.map"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\spica\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\spica\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\spica\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\spica\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\spica\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\spica\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\spica\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\spica\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\spica\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\spica\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\spica\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\spica\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\spica\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\spica\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\spica\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\spica\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\spica\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\spica\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\spica\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\spica\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\gulpfile.js",
+      "PackagePath": "staticwebassets\\spica\\gulpfile.js"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\spica\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\spica\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\spica\\images\\logo.svg"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\images\\other\\navbar-cover.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\other\\navbar-cover.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\images\\other\\navbar-cover2.jpg",
+      "PackagePath": "staticwebassets\\spica\\images\\other\\navbar-cover2.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\index.html",
+      "PackagePath": "staticwebassets\\spica\\index.html"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\js\\chart.js",
+      "PackagePath": "staticwebassets\\spica\\js\\chart.js"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\spica\\js\\dashboard.js"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\spica\\js\\file-upload.js"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\spica\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\spica\\js\\off-canvas.js"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\js\\template.js",
+      "PackagePath": "staticwebassets\\spica\\js\\template.js"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\package-lock.json",
+      "PackagePath": "staticwebassets\\spica\\package-lock.json"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\package.json",
+      "PackagePath": "staticwebassets\\spica\\package.json"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\pages\\charts\\chartjs.html",
+      "PackagePath": "staticwebassets\\spica\\pages\\charts\\chartjs.html"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\pages\\forms\\basic_elements.html",
+      "PackagePath": "staticwebassets\\spica\\pages\\forms\\basic_elements.html"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\pages\\icons\\mdi.html",
+      "PackagePath": "staticwebassets\\spica\\pages\\icons\\mdi.html"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\pages\\samples\\lock-screen.html",
+      "PackagePath": "staticwebassets\\spica\\pages\\samples\\lock-screen.html"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\pages\\samples\\login-2.html",
+      "PackagePath": "staticwebassets\\spica\\pages\\samples\\login-2.html"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\pages\\samples\\login.html",
+      "PackagePath": "staticwebassets\\spica\\pages\\samples\\login.html"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\pages\\samples\\register-2.html",
+      "PackagePath": "staticwebassets\\spica\\pages\\samples\\register-2.html"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\pages\\samples\\register.html",
+      "PackagePath": "staticwebassets\\spica\\pages\\samples\\register.html"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\pages\\tables\\basic-table.html",
+      "PackagePath": "staticwebassets\\spica\\pages\\tables\\basic-table.html"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\pages\\ui-features\\buttons.html",
+      "PackagePath": "staticwebassets\\spica\\pages\\ui-features\\buttons.html"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\pages\\ui-features\\typography.html",
+      "PackagePath": "staticwebassets\\spica\\pages\\ui-features\\typography.html"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\partials\\_footer.html",
+      "PackagePath": "staticwebassets\\spica\\partials\\_footer.html"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\partials\\_navbar.html",
+      "PackagePath": "staticwebassets\\spica\\partials\\_navbar.html"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\partials\\_sidebar.html",
+      "PackagePath": "staticwebassets\\spica\\partials\\_sidebar.html"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\preview.jpg",
+      "PackagePath": "staticwebassets\\spica\\preview.jpg"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\spica\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\vendors\\css\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\spica\\vendors\\css\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\vendors\\js\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\spica\\vendors\\js\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\spica\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\spica\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg",
+      "PackagePath": "staticwebassets\\spica\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\spica\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\spica\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\spica\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\spica\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "D:\\projeler\\MultiShop\\Frontend\\MultiShop.WebUI\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MultiShop.WebUI.Microsoft.AspNetCore.StaticWebAssets.props",
